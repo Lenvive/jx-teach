@@ -7,7 +7,7 @@ career decision-making. The observed efects were stable across gender and for hi
 and low school achievers.
 [详细信息](./intervention.pdf)
 ## Effectiveness of CDDQ
-The aim of this study was to develop and test the psychometric properties of the Croatian paper-andpencil and Internet versions of the Career Decision-Making Difficulties Questionnaire (CDDQ). The
+The aim of this study was to develop and test the psychometric properties of the Croatian paper andpencil and Internet versions of the Career Decision-Making Difficulties Questionnaire (CDDQ). The
 CDDQ is based on the theoretical taxonomy of difficulties in career decision-making and comprises
 three major clusters of difficulties: Lack of readiness, lack of information, and inconsistent information
 that are further divided into 10 specific types of difficulties. The paper-and-pencil version and the
